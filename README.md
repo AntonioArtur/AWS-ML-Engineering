@@ -1,6 +1,6 @@
 # SMSmishing Detector
 ##### Author: Antonio Artur de Holanda e Ayres de Moura
-Smishing detector model trained and deployed on SageMaker and served via lambda functions.
+Smishing detector model trained and deployed on SageMaker and served via lambda functions. Detailed information is found in the project report.
 
 ## Setup
 Use the requirements file to install necessary libraries.
@@ -16,9 +16,6 @@ wget https://md-datasets-cache-zipfiles-prod.s3.eu-west-1.amazonaws.com/f45bkkt8
 unzip f45bkkt8pr-1.zip
 unzip "SMS PHISHING DATASET FOR MACHINE LEARNING AND PATTERN RECOGNITION/Dataset_5971.zip"
 ```
-
-## Report
-Detailed information is found in the project report
 
 ## Notebooks
 
