@@ -1,4 +1,4 @@
-# SMSmishing Detector
+# Smishing Detector
 ##### Author: Antonio Artur de Holanda e Ayres de Moura
 Smishing detector model trained and deployed on SageMaker and served via lambda functions. Detailed information is found in the project report.
 
